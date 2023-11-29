@@ -6,6 +6,8 @@
 
 pip install openai
 
+openai API key를 발급받은 다음 API key를 입력해야 합니다.
+
 ## 개발환경
 
 google colab
