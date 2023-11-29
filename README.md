@@ -24,5 +24,5 @@ dall-e-3 생성된 이미지 url을 그대로 사용하기 때문에 시간이 �
 필요하다면 로컬로 내려받은 다음 gpt-3.5-turbo 모델에 입력하기 위해 웹에 올린 뒤 해당 url을 query에 기입해줘야 합니다.
 
 ## sample
-
+![sample](sample.png)
 html sample은 소스코드를 확인해주시기 바랍니다.
